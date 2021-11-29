@@ -9,7 +9,7 @@ Use the REQUIREMENTS.txt file to install the dependencies on your system
 ```bash
 pip install REQUIREMENTS.txt
 ```
-Store your bot token and RCON credentials in a .env file.
+Store your bot token in a .env file.
 ```bash
 TOKEN="<your-token-here>"
 ```
